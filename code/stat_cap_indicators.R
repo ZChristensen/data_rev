@@ -9,7 +9,7 @@ if(.Platform$OS.type == "unix"){
   prefix = "E:"
 }
 
-wd = paste0(prefix,"/git/poverty_trends")
+wd = paste0(prefix,"/git/data_rev")
 setwd(wd)
 
 `%notin%` <- function(x,y) !(x %in% y) 
@@ -43,4 +43,4 @@ names(African)=c("year","di_id","ag_census","pov_survey")
 ag_census=African[,c("year","di_id","ag_census")]
 pov_survey=African[,c("year","di_id","pov_survey")]
 write.csv(ag_census,"data/ag_census.csv",row.names=F,na="")
-write.csv(pov_survey,"data/ag_census.csv",row.names=F,na="")
+write.csv(pov_survey,"data/pov_survey.csv",row.names=F,na="")

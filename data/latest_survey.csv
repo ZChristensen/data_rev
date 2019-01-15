@@ -1,0 +1,55 @@
+di_id,nation,�..id,surveyid,titl,authenty,data_coll_start,data_coll_end,created,changed,global
+DZ,Algeria,4506,Array,5ème Recensement Général de la Population et de l'Habitat,"[""Office National des Statistiques (ONS)""]",2008,2008,May-19-14,May-19-14,FALSE
+AO,Angola,7053,Array,Inquérito de Indicadores Múltiplos e de Saúde 2015-2016,Instituto Nacional de Estatística - Ministério da Saúde,2015,2016,Jun-26-17,Jun-26-17,FALSE
+BJ,Bénin,5890,Array,Enquête sur la Transition vers la Vie Active 2011-2012,Institut National de la Statistique et de l'Analyse Economique - Ministère du Développement de l'Analyse Economique et de la Prospective,2011,2012,Mar-13-15,Mar-13-15,FALSE
+BW,Botswana,4243,Array,Population and Housing Census 2011,"[""Central Statistics Office - Government of Botswana ""]",2011,2011,Apr-07-14,Apr-07-14,FALSE
+BF,Burkina Faso,6027,Array,Rural Finance 2015,A2F Consulting LLC,2015,2015,Jul-07-15,Jul-07-15,FALSE
+BI,Burundi,7403,Array,Troisième Enquête Démographique et de Santé 2016-2017,Institut de Statistiques et d’Études Économiques du Burundi (ISTEEBU) - Gouvernement du Burundi,2016,2017,Sep-19-18,Sep-19-18,FALSE
+CI,Côte d'Ivoire,7423,Array,Enquête de Suivi de la Saison Agricole et de la Vulnérabilité Alimentaire 2016,Institut National de la Statistique - Ministère du Plan et du Développement,2016,2016,Sep-19-18,Sep-19-18,FALSE
+CV,Republic of Cabo Verde,7281,Array,Inquérito às Despesas e Receitas Familiares 2014-2015,"Instituto Nacional de Estatística de Cabo Verde - Ministério das Finanças, Government of Cabo Verde",2014,2015,Aug-30-18,Sep-19-18,FALSE
+CM,Cameroon,7238,Array,Enquête par Grappes à Indicateurs Multiples 2014,Fonds des Nations Unies pour l'Enfance<BR> Institut National de la Statistique,2014,2014,Oct-10-17,Oct-10-17,FALSE
+CF,Central African Republic,4742,Array,Enquête par Grappes à Indicateurs Multiples 2010,Institut Centrafricain des Statistiques et des Études Économiques et Sociales (ICASEES)<BR> Fonds des Nations Unies pour l’enfance (UNICEF),2010,2010,Sep-05-14,Feb-05-15,FALSE
+TD,Chad,6701,Array,Enquête Démographique et de Santé à Indicateurs Multiples 2014-2015,"Institut National de la Statistique, des Études Économiques et Démographiques (INSEED) - Gouvernement du Tchad",2014,2015,Jan-18-17,Jul-06-17,FALSE
+KM,Comoros,4741,Array,Enquête Démographique et de Santé et à Indicateurs Multiples 2012,Direction Générale de la Statistique (DGSP) - Commissariat General au Plan - Comores,2012,2012,Sep-05-14,Jul-06-17,FALSE
+CD,Congo Democratic Republic,7520,Array,"Demographic and Health Survey 2013-14, IPUMS Harmonized Subset","Ministère du Plan et Suivi de la Mise en œuvre de la Révolution de la Modernité (MPSMRM), Ministère de la Santé Publique (MSP) [Democratic Republic of the Congo] et ICF International<BR> Minneso",2013,2014,Sep-19-18,Sep-19-18,FALSE
+CG,"Congo, Rep.",3783,Array,Enquête Démographique et de Santé 2011-2012,"Centre National de la Statistique et des Études Économiques (CNSEE) - Ministère de l’Économie, du Plan, de l’Aménagement du Territoire et de l’Intégration",2011,2012,Dec-12-13,Jul-06-17,FALSE
+DJ,Djibouti,5945,Array,"Social Safety Net Interlinking Nutrition and Workfare Impact Evaluation 2014, Baseline Survey",Florencia Devoto - The Abdul Latif Jameel Poverty Action Lab (J-PAL),2014,2014,Mar-13-15,Mar-13-15,FALSE
+EG,"Egypt, Arab Rep.",7604,Array,"Demographic and Health Survey 2014, IPUMS Harmonized Subset","Ministry of Health and Population [Egypt], El-Zanaty and Associates [Egypt], and ICF International<BR> Minnesota Population Center - University of Minnesota",2014,2014,Sep-19-18,Sep-19-18,FALSE
+GQ,Equatorial Guinea,6815,Array,Encuesta Equatoguinea de Hogares 2006,"Direccion General de Estadistica y Cuentas Nacionales (DGSCN) - Ministerio de Planificacion, Desarrollo Economico e Inversiones Publicas ",2006,2006,Jan-18-17,Jan-18-17,FALSE
+ER,Eritrea,153,Array,Demographic and Health Survey 2002,"[""National Statistics and Evaluation Office (NSEO)""]",2002,2002,Sep-29-11,Sep-14-13,FALSE
+ET,Ethiopia,7199,Array,Demographic and Health Survey 2016,Central Statistical Agency (CSA) - Government of Ethiopia,2016,2016,Oct-10-17,Oct-10-17,FALSE
+GA,Gabon,3357,Array,Enquête Démographique et de Santé 2012,"Direction Générale des Statistiques (DGS) - Ministère de l’Économie, de l’Emploi et du Développement Durable, Gouvernement du Gabon",2012,2012,Sep-14-13,Jul-06-17,FALSE
+GM,"Gambia, The",7329,Array,Integrated Household Survey 2015,The Gambia Bureau of Statistics - Government of The Gambia,2015,2016,Sep-19-18,Sep-19-18,FALSE
+GH,Ghana,7630,Array,Maternal Health Survey 2017,Ghana Statistical Service (GSS) - Government of Ghana<BR> Ghana Health Service (GHS) - Government of Ghana,2017,2017,Sep-19-18,Sep-19-18,FALSE
+GW,Guinea-Bissau,6980,Array,Inquérito aos Indicadores Múltiplos 2014,Ministerio da Economia e Financas<BR> Direccao Geral do Plano<BR> Instituto Nacional de Estatistica,2014,2014,Jun-26-17,Jun-26-17,FALSE
+GN,Guinea,4086,Array,Enquête Démographique et de Santé et à Indicateurs Multiples 2012,"Institut National de la Statistique (INS) - Ministère du Plan, Gouvernement du Guinéen",2012,2012,Feb-19-14,Jul-06-17,FALSE
+IR,"Iran, Islamic Rep.",4524,Array,Population and Housing Census 2011,"[""Statistical Centre of Iran""]",2006,2006,May-19-14,May-19-14,FALSE
+KE,Kenya,7416,Array,Small and Medium Enterprises Survey 2016,Kenya National Bureau of Statistics - Ministry of Planning and National development,2016,2016,Sep-19-18,Sep-19-18,FALSE
+LS,Lesotho,6666,Array,Demographic and Health Survey 2014,Lesotho Ministry of Health (MOH) - Government of Lesotho,2014,2014,Jan-18-17,Jul-06-17,FALSE
+LR,Liberia,7360,Array,Malaria Indicator Survey 2016,"National Malaria Control Program (NMCP) - Ministry of Health, Government of Liberia",2016,2016,Sep-19-18,Sep-19-18,FALSE
+LY,Libya,3589,Array,Arab Jamahiriya Agricultural Census 1987,"[""Department of Statistics and Census""]",1986,1987,Sep-14-13,Sep-15-13,FALSE
+MG,Madagascar,7011,Array,Enquête sur les Indicateurs du Paludisme 2016,Institut National de la Statistique (INSTAT) - République de Madagascar,2016,2016,Jun-26-17,Jul-06-17,FALSE
+MW,Malawi,7427,Array,Malaria Indicator Survey 2017,"National Malaria Control Programme (NMCP) - Ministry of Health, Government of Malawi",2017,2017,Sep-19-18,Sep-19-18,FALSE
+ML,Mali,6798,Array,Enquête sur les Indicateurs du Paludisme 2015,Centre d'Études et d'Information Statistiques (INFO-STAT),2015,2015,Jan-18-17,Jul-06-17,FALSE
+MR,Mauritania,5963,Array,Enquête Permanente sur les Conditions de Vie des ménages 2014,Office National de la Statistique - Ministère des Affaires Economiques et du Développement,2014,2014,Mar-13-15,Jan-14-16,FALSE
+MU,Mauritius,4398,Array,Continuous Multi-Purpose Household Survey 2013,Central Statistics Office,2013,2013,Apr-07-14,Jan-14-16,FALSE
+MA,Morocco,6108,Array,Functional Literacy 2013,Transtec-Attitudes Conseil Consortium,2013,2013,Jul-07-15,Jul-07-15,FALSE
+MZ,Mozambique,7385,Array,"Inquérito de Indicadores de Imunização, Malária e HIV/SIDA 2015",Instituto Nacional de Saúde (INS) - Ministério da Saúde (MISAU),2015,2015,Sep-19-18,Sep-19-18,FALSE
+"",Namibia,7420,Array,Labour Force Survey 2016,Namibia Statistics Agency,2016,2016,Sep-19-18,Sep-19-18,FALSE
+NE,Niger,6779,Array,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Survey and Census Division - National Institute of Statistics,2014,2014,Jan-18-17,Jan-18-17,FALSE
+NG,Nigeria,7424,Array,Multiple Indicator Cluster Survey 2016-2017,National Bureau of Statistics of Nigeria<BR> United Nations Children’s Fund,2016,2017,Sep-19-18,Sep-19-18,FALSE
+RW,Rwanda,7654,Array,Malaria Indicator Survey 2017,Malaria and Other Parasitic Diseases Division of the Rwanda Biomedical Center - Ministry of Health,2017,2017,Sep-19-18,Sep-19-18,FALSE
+ST,São Tomé and Príncipe,6896,Array,Multiple Indicator Cluster Survey 2014,United Nations Children’s Fund<BR> National Institute of Statistics<BR> UNDP/Global Fund project<BR> National Centre for Endemic Diseases,2014,2014,Jan-18-17,Jan-18-17,FALSE
+SN,Senegal,7254,Array,Enquête Démographique et de Santé Continue 2016,Agence Nationale de la Statistique et de la Démographie (ANSD) - Gouvernement du Sénégal,2016,2016,Oct-10-17,Oct-10-17,FALSE
+SC,Seychelles,6480,Array,Household Budget Survey 2013,National Bureau of Statistics - Republic of Seychelles,2013,2013,Jan-29-16,Jan-29-16,FALSE
+SL,Sierra Leone,7283,Array,Malaria Indicator Survey 2016,"National Malaria Control Programme (NMCP) - Ministry of Health and Sanitation (MoHS), Government of Sierra Leome",2016,2016,Sep-19-18,Sep-19-18,FALSE
+SO,Somalia,7280,Array,"Population Estimation Survey of Somalia 2014, Urban Round",Directorate of National Statistics - Ministry of Planning and International Cooperarion,2013,2014,Jun-18-18,Sep-19-18,FALSE
+ZA,South Africa,7627,Array,"Quarterly Labour Force Survey 2018, Quarter 1",Statistics South Africa,2018,2018,Sep-19-18,Sep-19-18,FALSE
+SS,South Sudan,7402,Array,High Frequency Survey-Market Price Survey 2012,Utz J. Pape - IBRD,2012,2012,Sep-19-18,Sep-19-18,FALSE
+SD,Sudan,6667,Array,Multiple Indicator Cluster Survey 2014,Central Bureau of Statistics - Government of Sudan<BR> United Nations Children’s Fund,2014,2014,Jan-18-17,Jan-18-17,FALSE
+TZ,Tanzania,7098,Array,Education Quality Improvement Programme Impact Evaluation Midline Survey 2016,Oxford Policy Management Ltd,2016,2016,Jun-26-17,Jun-26-17,FALSE
+TG,Togo,7632,Array,Enquête sur les Indicateurs du Paludisme 2017,Institut National de la Statistique et des Études Économiques et Démographiques (INSEED) - Gouvernement de la République du Togo,2017,2017,Sep-19-18,Sep-19-18,FALSE
+TN,Tunisia,6813,Array,Enquête Nationale sur la Population et l'Emploi 2013,Institut National de la Statistique - Ministère du Développement régional et de la Planification,2013,2013,Jan-18-17,Jan-18-17,FALSE
+UG,Uganda,7389,Array,Demographic and Health Survey 2016,Bureau of Statistics (UBOS) - Government of Uganda,2016,2016,Sep-19-18,Sep-19-18,FALSE
+ZM,Zambia,7105,Array,Living Conditions Monitoring Survey VII 2015,Central Statistical Office - Government of Zambia,2015,2015,Jun-26-17,Jun-26-17,FALSE
+ZW,Zimbabwe,6932,Array,Demographic and Health Survey 2015,National Statistics Agency (ZIMSTAT) - Government of Zimbabwe,2015,2015,Jun-26-17,Jul-06-17,FALSE
